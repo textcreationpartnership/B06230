@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true divrnall: or A continued relation of Irish occurences, from the 12. of Febr. to the 8. of March. Printed after a copy that was sent from Mr. William Bladen of Dublin, to his sonne resident here in London: shewing what overthrowes was given to the rebells, and what good successe the Protestant party had; with a relation of the late reliefe of Trohedagh.</title>
+            <author>Bladen, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06230</idno>
+            <idno type="STC">Wing T2688</idno>
+            <idno type="STC">ESTC R185642</idno>
+            <idno type="EEBO-CITATION">53299339</idno>
+            <idno type="OCLC">ocm 53299339</idno>
+            <idno type="VID">180061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180061)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2812:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true divrnall: or A continued relation of Irish occurences, from the 12. of Febr. to the 8. of March. Printed after a copy that was sent from Mr. William Bladen of Dublin, to his sonne resident here in London: shewing what overthrowes was given to the rebells, and what good successe the Protestant party had; with a relation of the late reliefe of Trohedagh.</title>
+                  <author>Bladen, W. (William)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>for William Bladen, and are to be sold by Francis Couls ...,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Bladen and dated Dublin: March. 8 1641.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180061:1"/>
+            <pb facs="tcp:180061:1" rendition="simple:additions"/>
+            <p>A true DIVRNALL: OR A continued Relation of <hi>Iriſh</hi> Occurrences, from the 12. of <hi>Febr.</hi> to the 8. of <hi>March.</hi>
+            </p>
+            <p>Printed after a Coppy that was ſent from Mr. <hi>William Bladen</hi> of <hi>Dublin,</hi> to his Sonne reſident here in <hi>LONDON:</hi>
+            </p>
+            <p>Shewing what overthrowes was given to the Rebells, and what good ſucceſſe the Proteſtant party had; with a Relation of the late reliefe of Trohedagh.</p>
+            <p>
+               <hi>Printed</hi> at <hi>London</hi> for <hi>William Bladen,</hi> and are to be ſold by <hi>Francis Couls</hi> in the Old Baily, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180061:2"/>
+            <pb facs="tcp:180061:2"/>
+            <head>A True Diurnall, or a continued Relation of <hi>Iriſh</hi> Occurrences, from the twelfth of Febr. to the eighth of March.</head>
+            <div type="part">
+               <head>
+                  <hi>February the</hi> 12. 1641.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His day the Lord <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>bert</hi> marched out to the Deanes Grange five miles from Dublin (with ſome horſe and foote) where were a great multitude of the Re<g ref="char:EOLhyphen"/>bels, who had great advantage of our men both of the ground and great Dit<g ref="char:EOLhyphen"/>ches, which at the firſt onſet ſhewed ſome courage to fight, but after twice diſcharge the Rebells betooke themſelves to their heeles, where our men ſlew many of them; and in one Company we ſlew one Captaine, one Lieutenant, and one Corporall, tooke 12. or 14. Priſo<g ref="char:EOLhyphen"/>ners, one of which was a Commander, they had ſixe Collours but all fled.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:180061:3"/>
+               <head>
+                  <hi>February</hi> 14.</head>
+               <p>This day here were hanged ſeven Rebells, and the eighth had the Rope about his neck upon the ladder; he made a Speech, that his life or death was worth no<g ref="char:EOLhyphen"/>thing, but if his life might be ſpared, he would doe that ſervice which ſhould be worth a hundred of his life, or elſe let him ſuffer, upon which he was for this time pre<g ref="char:EOLhyphen"/>ſerved, to make tryall of his good ſervice, which if hee did not performe, hee muſt goe to the Gibbet from whence he came.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 15.</head>
+               <p>This day a Rebell one of their Commanders was brought in, who on the Sabboth before drinking with the reſt of his wicked Companions, made a vow that the firſt <hi>Engliſh</hi> he met with whatſoever, he would kill and waſh his hands in their bloud, which he did the next day meeting with a woman, but being neare Dublin, ſome of our Scots accidentally met with him &amp; brought him to our City, and upon examination he confeſſed his cruell Murder, and this day he was hanged for the ſame, as hee juſtly deſerved.</p>
+               <p>This day more pr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſion and men are ſent to ſuccour Tredaugh, the Lord in mercy ſend them ſafe to them. We heard that Sir <hi>Henry Tichborne</hi> ſallyed out of Tre<g ref="char:EOLhyphen"/>dagh, and tooke a good booty of Cowes, Corne, and Hay, which we hope is true, but it came to us by the Po<g ref="char:EOLhyphen"/>piſh Rebells, otherwiſe we cannot heare from Tredagh by land.</p>
+               <p>We heare that the Lord Preſident of Munſter hath re<g ref="char:EOLhyphen"/>covered Clomell out of the Rebells hands, and hath hanged the Major, and two or three Aldermen of that Towne, for their Rebellion which is here credibly reported to bee true.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 22.</head>
+               <p>This day we heare that the Lord of Muſgra, and the
+<pb facs="tcp:180061:3"/>Lord <hi>Rouch</hi> are revolted from us and joyned with the Rebells in the County of Corke; and that our Lord preſident of Munſter is forced to goe into Corke for his ſafety, but if there bee a ſupply of men and munition from Briſtoll, as wee heare and hope there is, I doe not doubt (by the Lords aſſiſtance) but that they will bee ſuppreſt in a ſhort time: Muſgra and Rouch have two fine Countries, and good Land, which I truſt in God will be hereafter planted with true hearted <hi>Engliſh,</hi> it is a Country of a large extent, land enough for many thouſands.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 22.</head>
+               <p>We heare that the Rebells have beſieged the City of Cork, Kingſale, and Bandonbridge, and it is to be feared is too true: but our confidence is in our good God the Lord of Hoſts. This day here is landed a ſecond ſupply of ſtrength both horſe and foot: and we heare and hope of more comming, which by the gracious aſſiſtance of our good God, wee hope Ireland will be new moulded both in Church and Common-wealth.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 23.</head>
+               <p>This day more men landed here, with whom one Colonell <hi>Brimigham,</hi> a popiſh Colonell came and lan<g ref="char:EOLhyphen"/>ded, but he was diſcovered, taken and committed to the Caſtle. This night ſome of our forces purpoſeth ſome exployts, the Lord in mercy proſper their enter<g ref="char:EOLhyphen"/>priſes, and ſend them ſafe returne with victory and honour.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 24.</head>
+               <p>This day wee heare our men, ſome foot and horſe went the laſt night to Kileſtone; and by the way found two of our Towne that went to give the enemy notice of their comming to them, which were both hanged, as they juſtly deſerved.</p>
+               <pb facs="tcp:180061:4"/>
+               <p>This night our men returned back to Dublin (bleſ<g ref="char:EOLhyphen"/>ſed be God) and have done good ſervice; wee forced the enemy out of their Trenches, out of the wood ad<g ref="char:EOLhyphen"/>joyning to the Caſtle; in which wood they had intren<g ref="char:EOLhyphen"/>ched themſelves, alſo took from them two Barrells of powder, and one Barrell of ſhot, with 500. weight of match, killed many of them that were without the Caſtle, but could not get the Caſtle, becauſe wee had no battering Peeces there, but all that could not get into the Caſtle betook themſelves to their heeles and ran a<g ref="char:EOLhyphen"/>way; onely ſuch as were laid faſt by death, and could not run away. And we hope to viſite them ere long in another manner.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>February</hi> 28.</head>
+               <p>This day our men are returned from victualling of <hi>Tredagh</hi> (bleſſed be God, and have had a good ſucceſſe; the enemy had made a mighty Chaine of Iron with Boats, which they had ſunke in the River: but ſuch was the gracious providence of our bleſſed God, that the night before our previſion was to goe up, to ſend ſuch a mighty Tide, which broke the Chain, ſo that it was no hindrance to our paſſage: they had placeda th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> peeces of Ordnance upon the paſſage, but upon the diſ<g ref="char:EOLhyphen"/>charge of our Pinnices the Rebels ran away from their peeces, and our men have taken the three peeces; and part of the Chaine. I ſaw the Chaine in the Caſtle of Dublin, which wanted no ſtrength, but it was the pow<g ref="char:EOLhyphen"/>erfull worke of our good God, to whom let us aſcribe al praiſe and glory to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bleſſed Majeſty for ever. I could write of many other paſſages, but becauſe of the uncer<g ref="char:EOLhyphen"/>tainty of them I omit, for my deſire is to write nothing upon uncertainty: for I am aſhamed to ſee ſome things in print, as that of birds and apparitions in the ayre to be ſeen here at Dublin is moſt falſe.</p>
+               <pb facs="tcp:180061:4"/>
+               <p>The newes we heard of Sir <hi>Henry Tychborne</hi> iſſuing out of the Town of Tredagh, is moſt certain, he brought in above eighty Cowes, one hundred Sheep, Corne and Hay, but with much difficulty: For the enemy beſet them Front and Reare; yet bleſſed be God our men got ſafe into the Towne with their pilladge.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>March the</hi> 3.</head>
+               <p>This night our men purpoſe to march out upon the enemy, the Lord in mercy proſper their intentions, and ſend them good ſucceſſe, and a victorious returne. They carry with them ten peeces, five ſmall and five great, but our truſt is in the Lord of Hoſts the giver of all victory, to whom we pray for his bleſſed aſſiſtance, and gracious protection. But of this event I will, God inabling me, write in my next: for the packet is to goe in the mor<g ref="char:EOLhyphen"/>ning from hence.</p>
+               <p>This day we heare that our men at <hi>Bandonbridge</hi> did fally out of the Town upon the enemy, and ſlew 105. of them, and the reſt ran away. We loſt not one man, and onely one man ſhot in the leg, in which, as all other, we may behold the gracious goodnes of our good God towards us. We heare that Sir <hi>H. Tychborn</hi> the laſt week marched out of <hi>Tredagh,</hi> and ſlew many of the Rebells, the reſt ran away, ſo that the Rebells have no hope to get that Towne. Sir <hi>Henry</hi> ſent to the rebellious Lords of the <hi>Pale,</hi> that they ſhould ſend in the Countrey to the Market with proviſion, otherwiſe hee would ſend for what he wanted, and take the reſt from them. I heard it from a good hand, and I doubt not of the truth of it, for which the Lord make us thankfull, as for al o<g ref="char:EOLhyphen"/>ther his wonderfull mercies towards us.</p>
+               <closer>
+                  <signed>Your loving Father, <hi>William Bladen.</hi>
+                  </signed>
+                  <dateline>Dublin: <date>
+                        <hi>March.</hi> 8. 1641.</date>
+                  </dateline>
+               </closer>
+               <pb facs="tcp:180061:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
